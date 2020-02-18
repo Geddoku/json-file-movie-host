@@ -1,0 +1,66 @@
+{
+    "Japanese Anime": [
+        {
+            "Title": "Flavors of Youth",
+            "Rated": "13+",
+            "Released": "2018",
+            "Runtime": "1h 14m",
+            "Genre": [
+                "Adult Animation",
+                "Japanese Movies",
+                "Romance Anime",
+                "Drama Anime"
+            ],
+            "Director": [
+                "Xiaoxing Yi",
+                "Yoshitaka Takeuchi",
+                "Haoling Li"
+            ],
+            "Cast": [
+                "Taito Ban",
+                "Mariya Ise",
+                "Takeo Otsuka",
+                "Ross Butler"
+            ],
+            "Plot": "Three stories in three different cities. There's loss, longing and so much hope and beauty in this rapid modern life.",
+            "Language": "Japanese",
+            "Country": "Japan",
+            "Poster": "",
+            "Rating": "9"
+        },
+        {
+            "Title": "Jojo Bizzare Adventure",
+            "Rated": "16+",
+            "Released": "2012",
+            "Runtime": "5 seasons",
+            "Genre": [
+                "Ocultic",
+                "Japanese Movies",
+                "Fantasy",
+                "Adventure Anime"
+            ],
+            "Director": [
+                "Kohei Ashiya",
+                "Aya Nishimura",
+                "Terumi Nishii",
+                "Shunichi Ishimoto",
+                "Yuichi Nakazawa"
+            ],
+            "Cast": [
+                "Matthew Mercer",
+                "Daisuke Ono",
+                "Fuminori Komatsu",
+                "Phillip Reich",
+                "Yuki Ono",
+                "Richard Epcar"
+            ],
+            "Plot": "Story of the Joestar family, starting with Jonathan, a mild mannered Englishman who strikes up a rivalry with Dio Brando, his adopted brother. ... Each arc of the manga and anime follows the life of another member of the Joestar family, tracing their adventures through the generations.",
+            "Language": "Japanese",
+            "Country": "Japan",
+            "Poster": "",
+            "Rating": "9.5",
+            "Logo Image": "img/jojo_bizarre_adv_logo.png",
+            "Main Image": "img/jojo_bizarre_adv_main.jpg"
+        }
+    ]
+}
